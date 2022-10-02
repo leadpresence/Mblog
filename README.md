@@ -1,6 +1,6 @@
 # Mblog
 
-A new Flutter that shows recent sport and movies news #Firebase Realtime database & #Firebase Storage.
+A new Flutter that shows recent sport and movies news #Firebase Realtime database,Authentication & #Firebase Storage.
 
 ## Getting Started
 
